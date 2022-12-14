@@ -22,4 +22,4 @@ You will need the following parts:
 13) Talentcell 3000 mAh rechargable battery pack - provides both 5v and 12v power to everything except the vaporizers.
 14) Wiress RF remote - to activate the jetpack easily
 
-![Custom PCB Diagram]("Mando Jetpack Custom PCB_bb.png")
+![Custom PCB Diagram](MandoJetpackCustomPCB_bb.png)
