@@ -8,7 +8,7 @@ Video Demo - https://www.youtube.com/shorts/M8bbbQtCOJw
 ## Parts list
 You will need the following parts:
 1) [Arduino Nano](https://smile.amazon.com/gp/product/B0713XK923/) - controller for this project.
-2) Rising Phoenix board (or blank prototyping PCBs and connectors).
+2) Rising Phoenix board (or blank [prototyping PCBs](https://smile.amazon.com/gp/product/B072Z7Y19F/) and [connectors](https://smile.amazon.com/gp/product/B088LSS14J/)).
 3) [DFPlayer Mini](https://smile.amazon.com/gp/product/B01B0IQZ4U/) - get an authentic one made by DFRobot. The knock-offs didn't work in my experience.
 4) Micro SD card
 5) [1k ohm resistor](https://smile.amazon.com/gp/product/B07QG1V4YL/) - for the DFPlayer's RX pin. (This is included with the Rising Phoenix board.)
@@ -28,5 +28,8 @@ You will need the following parts:
 19) [Wago lever nuts](https://smile.amazon.com/gp/product/B07W4RQ6R6/) - 2 and 3 conductor - for some of the wire connections
 
 ## Wiring Diagram
-
+Using custom Rising Phoenix board
 ![Custom PCB Diagram](MandoJetpackCustomPCB_bb.png)
+
+Using prototype board
+![Breadboard Diagram](MandoJetpackBreadboard.png)
