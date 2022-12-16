@@ -1,5 +1,7 @@
-# ArduinoRisingPhoenix
+# Arduino [Rising Phoenix](https://starwars.fandom.com/wiki/Rising_Phoenix) Electronics
 Open-source version of the Rising Phoenix jetpack worn by Din Djarin in 'The Mandalorian'.
+
+![Screenshot](RisingPhoenixScreenshot.jpg)
 
 Includes LEDs with flame effect, sound effects, and smoke that is all controlled by a wireless remote.
 
