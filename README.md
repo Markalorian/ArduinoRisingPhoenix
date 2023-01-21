@@ -40,9 +40,9 @@ Using prototype board
 
 Detailed instructions coming soon
 
-![Custom PCB](Build Pictures/Custom PCB.jpg)
-![Full Interior](Build Pictures/Full Interior.jpg)
-![Left Side 1](Build Pictures/Left Side 1.jpg)
-![Left Side 2](Build Pictures/Left Side 2.jpg)
-![Right Side 1](Build Pictures/Right Side 1.jpg)
-![Right Side 2](Build Pictures/Right Side 2.jpg)
+![Custom PCB](/Build Pictures/Custom PCB.jpg)
+![Full Interior](/Build Pictures/Full Interior.jpg)
+![Left Side 1](/Build Pictures/Left Side 1.jpg)
+![Left Side 2](/Build Pictures/Left Side 2.jpg)
+![Right Side 1](/Build Pictures/Right Side 1.jpg)
+![Right Side 2](/Build Pictures/Right Side 2.jpg)
