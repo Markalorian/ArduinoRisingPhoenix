@@ -40,9 +40,9 @@ Using prototype board
 
 Detailed instructions coming soon
 
-![Custom PCB]("/Build Pictures/Custom PCB.jpg")
-![Full Interior](/Build Pictures/Full Interior.jpg)
-![Left Side 1](/Build Pictures/Left Side 1.jpg)
-![Left Side 2](/Build Pictures/Left Side 2.jpg)
-![Right Side 1](/Build Pictures/Right Side 1.jpg)
-![Right Side 2](/Build Pictures/Right Side 2.jpg)
+![Custom PCB](https://user-images.githubusercontent.com/26532166/213885789-4250f816-c399-4070-83a2-46ca65842486.jpg)
+![Full Interior](https://user-images.githubusercontent.com/26532166/213885795-49783b32-0949-4dde-9b04-192754ed75e2.jpg)
+![Left Side 1](https://user-images.githubusercontent.com/26532166/213885799-f96e9c15-b55e-401c-a0f2-e44c2cdaa6cc.jpg)
+![Left Side 2](https://user-images.githubusercontent.com/26532166/213885803-ee82f3f9-a74b-41d1-84b8-0c2709d51f0b.jpg)
+![Right Side 1](https://user-images.githubusercontent.com/26532166/213885809-7cfd07d8-72a5-4993-a394-aa67f80eb149.jpg)
+![Right Side 2](https://user-images.githubusercontent.com/26532166/213885812-ca522bf8-8eb5-4003-b72b-4c9647b45bf9.jpg)
