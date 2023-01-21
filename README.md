@@ -35,3 +35,14 @@ Using custom Rising Phoenix board
 
 Using prototype board
 ![Breadboard Diagram](MandoJetpackBreadboard.png)
+
+## Instructions
+
+Detailed instructions coming soon
+
+![Custom PCB](Custom PCB.jpg)
+![Full Interior](Full Interior.jpg)
+![Left Side 1](Left Side 1.jpg)
+![Left Side 2](Left Side 2.jpg)
+![Right Side 1](Right Side 1.jpg)
+![Right Side 2](Right Side 2.jpg)
