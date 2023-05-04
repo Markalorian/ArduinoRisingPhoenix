@@ -7,10 +7,12 @@ Includes LEDs with flame effect, sound effects, and smoke that is all controlled
 
 Video Demo - https://www.youtube.com/shorts/M8bbbQtCOJw
 
+Follow me on Instagram - https://www.instagram.com/the_markalorian/
+
 ## Parts list
-You will need the following parts:
+In addition to the 3d printed parts available in the files section, you will need the following:
 1) [Arduino Nano](https://smile.amazon.com/gp/product/B0713XK923/) - controller for this project.
-2) Rising Phoenix board (or blank [prototyping PCBs](https://smile.amazon.com/gp/product/B072Z7Y19F/) and [connectors](https://smile.amazon.com/gp/product/B088LSS14J/)).
+2) [Rising Phoenix board](https://buy.stripe.com/eVa15z8689vs0Ja8ww) (or blank [prototyping PCBs](https://smile.amazon.com/gp/product/B072Z7Y19F/) and [connectors](https://smile.amazon.com/gp/product/B088LSS14J/)).
 3) [DFPlayer Mini](https://www.dfrobot.com/product-1121.html) - get an authentic one made by DFRobot. The knock-offs didn't work in my experience.
 4) Micro SD card - any size should do.
 5) [1k ohm resistor](https://smile.amazon.com/gp/product/B07QG1V4YL/) - for the DFPlayer's RX pin. (This is included with the Rising Phoenix board.)
@@ -28,7 +30,8 @@ You will need the following parts:
 16) [Silicone Tubing 4mm ID X 6mm OD](https://smile.amazon.com/gp/product/B07V5MX1Q4/)
 17) [Silicone Tubing 8mm ID x 11mm OD](https://smile.amazon.com/gp/product/B07V5PKYMK/)
 18) [24-22 AWG hookup wire](https://smile.amazon.com/gp/product/B073QHPGMC/)
-19) [Wago lever nuts](https://smile.amazon.com/gp/product/B07W4RQ6R6/) - Optional - for some of the 12v wire connections
+19) [Ferrule Connectors](https://www.amazon.com/Ferrule-Crimping-Tools-Wire-Pliers/dp/B07WRQN45C/) - Optional
+20) [Wago lever nuts](https://smile.amazon.com/gp/product/B07W4RQ6R6/) - Optional - for some of the 12v wire connections
 
 ## Wiring Diagram
 Using custom Rising Phoenix board
