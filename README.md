@@ -38,7 +38,7 @@ Using custom Rising Phoenix board
 ![Custom PCB Diagram](MandoJetpackCustomPCB_bb.png)
 
 Using prototype board
-![Breadboard Diagram](MandoJetpackBreadboard.png)
+![Breadboard Diagram](MandoJetpackBreadboard-v1.1.png)
 
 ## Instructions
 
