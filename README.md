@@ -5,7 +5,7 @@ Open-source electronics project for the Rising Phoenix jetpack worn by Din Djari
 
 Includes LEDs with flame effect, sound effects, and smoke that is all controlled by a wireless remote.
 
-[Buy a Rising Phoenix PCB here](https://buy.stripe.com/aEU8y1bik5fc63u3cd)
+[Buy a Rising Phoenix PCB here](https://buy.stripe.com/aEU8y1bik5fc63u3cd) (US link only. Contact me for international orders)
 
 Video Demo - https://www.youtube.com/shorts/M8bbbQtCOJw
 
