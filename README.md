@@ -5,7 +5,7 @@ Open-source electronics project for the Rising Phoenix jetpack worn by Din Djari
 
 Includes LEDs with flame effect, sound effects, and smoke that is all controlled by a wireless remote.
 
-[Buy a Rising Phoenix PCB here](https://buy.stripe.com/aEU8y1bik5fc63u3cd) (US link only. Contact me for international orders)
+[Buy a Rising Phoenix PCB here](https://markalorian.gumroad.com/l/risingphoenixpcb) (US link only. Contact me for international orders)
 
 Video Demo - https://www.youtube.com/shorts/M8bbbQtCOJw
 
@@ -14,7 +14,7 @@ Follow me on Instagram - https://www.instagram.com/the_markalorian/
 ## Parts list
 In addition to the 3d printed parts available in the files section, you will need the following:
 1) [Arduino Nano](https://smile.amazon.com/gp/product/B0713XK923/) - controller for this project.
-2) [Rising Phoenix board](https://buy.stripe.com/aEU8y1bik5fc63u3cd) (or blank [prototyping PCBs](https://smile.amazon.com/gp/product/B072Z7Y19F/) and [connectors](https://smile.amazon.com/gp/product/B088LSS14J/)).
+2) [Rising Phoenix board](https://markalorian.gumroad.com/l/risingphoenixpcb) (or blank [prototyping PCBs](https://smile.amazon.com/gp/product/B072Z7Y19F/) and [connectors](https://smile.amazon.com/gp/product/B088LSS14J/)).
 3) [DFPlayer Mini](https://www.dfrobot.com/product-1121.html) - get an authentic one made by DFRobot. The knock-offs didn't work in my experience.
 4) Micro SD card - any size should do.
 5) [1k ohm resistor](https://smile.amazon.com/gp/product/B07QG1V4YL/) - for the DFPlayer's RX pin. (This is included with the Rising Phoenix board.)
