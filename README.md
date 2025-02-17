@@ -28,7 +28,7 @@ In addition to the 3d printed parts available in the files section, you will nee
   Optional (2) [510 threaded connectors](https://www.aliexpress.us/item/3256804393659205.html) - Makes connecting the negative wire to the atomizor much easier
 13) (2) [18650 batteries](https://www.18650batterystore.com/products/molicel-p26a) - need a high current output. These power the vaporizers.
 14) [Talentcell 3000 mAh rechargable battery pack](https://smile.amazon.com/gp/product/B01M7Z9Z1N/) - provides both 5v and 12v power to everything except the vaporizers. Will not automatically power off like most USB battery packs.
-15) [Wiress RF remote](https://smile.amazon.com/gp/product/B07C9F4VJX/) - to activate the jetpack. 
+15) [Wiress RF remote](https://www.amazon.com/gp/product/B077ZQMQDZ) - to activate the jetpack. 
 16) [Silicone Tubing 4mm ID X 6mm OD](https://smile.amazon.com/gp/product/B07V5MX1Q4/)
 17) [Silicone Tubing 8mm ID x 11mm OD](https://smile.amazon.com/gp/product/B07V5PKYMK/)
 18) [24-22 AWG hookup wire](https://smile.amazon.com/gp/product/B073QHPGMC/)
